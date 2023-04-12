@@ -33,7 +33,7 @@ namespace DemoJenkins1.Controllers
         [Route("GetMsg")]
         public string GetMsg()
         {
-            return "Heloo from getmsg action method";
+            return "Heloo from getmsg action method triggering";
         }
     }
 }
